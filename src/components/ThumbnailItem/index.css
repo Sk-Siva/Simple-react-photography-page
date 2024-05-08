@@ -1,0 +1,12 @@
+.img-thumbnail {
+  margin: 10px;
+  opacity: 0.5;
+}
+
+.img-thumbnail-active {
+  opacity: 1;
+}
+.btn {
+  border: none;
+  background: none;
+}

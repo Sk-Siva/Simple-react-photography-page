@@ -1,0 +1,18 @@
+.bg-con {
+  background-color: #ffffff;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin: 0px;
+  overflow-x: none;
+}
+.list-con {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  text-align: left;
+}
+.image {
+  width: 100%;
+}
